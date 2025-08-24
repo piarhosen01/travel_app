@@ -13,7 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
     return Scaffold(
       body:
       Image.asset("assets/images/home.png",
-      height: MediaQuery.of(context).size.height/3
+      
       ,
       ),
       
